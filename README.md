@@ -1,3 +1,4 @@
-Contributors:
-tiamelief
-thdb-theo
+### Contributors:
+
+- tiamelief
+- thdb-theo
